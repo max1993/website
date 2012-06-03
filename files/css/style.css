@@ -1,0 +1,11 @@
+*{padding:0;margin:0}
+.left{float:left}
+.right{float:right}
+#header{}
+#content{background:blue;position:relative}
+
+#footer{background:green}
+#logo {background:green;width:70px}
+#request{background:blue}
+#messages{background:green}
+#notifications{background:purple}
